@@ -1,3 +1,9 @@
+## Basic Information.
+
+This is a React-Native/Expo template I created based on the structure I typically use for React and Next projects.
+Now for the standard JS App info below...
+
+_________________________________________________________________________________________________________________
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
